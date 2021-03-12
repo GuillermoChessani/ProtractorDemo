@@ -1,0 +1,9 @@
+{
+  "searchPage":
+  {
+    "googleLogo": ["xpath","//*[@alt='Google']"],
+    "searchInput": ["name","q"],
+    "searchButton": ["xpath","//*[@aria-label='Google Search']"],
+    "result": ["xpath","//div[@class='r']/a/h3"]
+  }
+}
